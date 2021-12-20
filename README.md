@@ -8,13 +8,8 @@ Repositório da disciplina Informática Aplicada à Engenharia do CEFET-MG.
 
 * [Variáveis e operações básicas](docs/octave-operacoes-basicas.md)
 
-* Matrizes e vetores
+* [Matrizes e vetores](docs/octave-vetor-e-matriz.md)
 
-* Estruturas de repetição
-
-* Funções
-
-* Gráficos
 
 
 
