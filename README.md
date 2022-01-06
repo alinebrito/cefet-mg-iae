@@ -10,6 +10,8 @@ Repositório da disciplina Informática Aplicada à Engenharia do CEFET-MG.
 
 * [Matrizes e vetores](docs/octave-vetor-e-matriz.md)
 
+* [Gráficos](docs/octave-graficos.md)
+
 
 
 
