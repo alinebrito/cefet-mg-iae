@@ -6,9 +6,15 @@
 
 ## Instalação:
 
-No decorrer da disciplina, vamos utilizar o Octave. Para instalar, basta fazer o download do instalador compatível com o seu sistema operacional e seguir as instruções para instalação:
+No decorrer da disciplina, vamos utilizar o Octave e MATLAB. 
+
+Para instalar o Octave, basta fazer o download do instalador compatível com o seu sistema operacional e seguir as instruções para instalação:
 
 > https://www.gnu.org/software/octave/download
+
+Se você preferir utilizar o MATLAB, o procedimento é o mesmo. Porém, uma licença é requerida.
+
+> https://www.mathworks.com/products/get-matlab.html
 
 ## Criando Scripts:
 
