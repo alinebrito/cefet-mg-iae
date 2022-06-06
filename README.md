@@ -12,6 +12,8 @@ Repositório da disciplina Informática Aplicada à Engenharia do CEFET-MG.
 
 * [Gráficos](docs/octave-graficos.md)
 
+* [Importando dados](docs/matlab-importar-dados.md)
+
 
 
 
