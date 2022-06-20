@@ -14,6 +14,8 @@ Repositório da disciplina Informática Aplicada à Engenharia do CEFET-MG.
 
 * [Importando dados](docs/matlab-importar-dados.md)
 
+* [Aplicações em problemas de engenharia](docs/matlab-aplicacoes.md)
+
 
 
 
