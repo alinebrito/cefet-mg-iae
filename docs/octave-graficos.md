@@ -63,7 +63,7 @@ y1 = sin(x1)
 x2 = -10:0.1:10;
 y2 = cos(x2)
 
-plot (x1, y1, "linewidth", 3, x2, y2, "linewidth", 3);
+plot (x1, y1, x2, y2);
 xlabel ("x");
 ylabel ("seno(x) e cos(x)");
 title ("Gráfico 2D Simples");
