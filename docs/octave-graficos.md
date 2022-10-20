@@ -91,10 +91,15 @@ title ("Exemplo de gráfico usando plot3");
 
 ```
 
-Os comandos acima definem uma linha em formato espiral:
+O script acima definem uma linha em formato espiral:
 
 
 <img src="img/plot3.png"  width="600"/>
+
+
+O comando [linspace(x1,x2,N)](https://www.mathworks.com/help/matlab/ref/linspace.html) retorna um vetor de linha de N pontos uniformemente espaçados entre x1 e x2.
+
+Já o comando [numel](https://www.mathworks.com/help/matlab/ref/double.numel.html) retorna o número de elementos de um array.
 
 
 ## Comandos úteis:
